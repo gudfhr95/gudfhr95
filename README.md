@@ -84,3 +84,12 @@ M.S., School of Computing, KAIST
 Ham, Hyungrok, Tae Joon Jun, and Daeyoung Kim. "Unbalanced GANs: Pre-training the generator of
 generative adversarial network using variational autoencoder." arXiv preprint arXiv:2002.02112 (2020).
 [Link](https://arxiv.org/abs/2002.02112)
+
+### 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudfhr95&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudfhr95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gudfhr95)](https://solved.ac/gudfhr95)
+
+
+
